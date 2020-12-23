@@ -1,12 +1,6 @@
 # egg-socket.io
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![David deps][david-image]][david-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
-[![npm download][download-image]][download-url]
-
+基于作者最后 4.1.6 一版更新
 egg 框架的 socket.io 插件
 原作者许久未更新， 将 socket.io 升级到了 3.0
 
