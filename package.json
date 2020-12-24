@@ -1,6 +1,6 @@
 {
   "name": "@bonetm/egg-socket.io",
-  "version": "4.2.3",
+  "version": "4.2.5",
   "description": "egg plugin for socket.io",
   "eggPlugin": {
     "name": "io",
@@ -74,6 +74,6 @@
     "url": "https://github.com/BoneTM/egg-socket.io/issues"
   },
   "homepage": "https://github.com/BoneTM/egg-socket.io#readme",
-  "author": "ngot <zhuanghengfei@gmail.com>",
+  "author": "Bone, ngot <zhuanghengfei@gmail.com>",
   "license": "MIT"
 }
