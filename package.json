@@ -1,6 +1,6 @@
 {
   "name": "@bonetm/egg-socket.io",
-  "version": "4.2.5",
+  "version": "4.2.7",
   "description": "egg plugin for socket.io",
   "eggPlugin": {
     "name": "io",
